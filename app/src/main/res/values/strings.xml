@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="UserName">User Name</string>
+    <string name="Password">Password</string>
+    <string name="dfdf">Login</string>
+    <string name="Register">Register</string>
+    <string name="BirthDay">Date of Birth</string>
+    <string name="Gender" />
+    <string name="Gendern">Gender</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="Update">Update Profile</string>
+    <string name="Edit">Edit</string>
+    <string name="Delete">Delete</string>
+    <string name="Search">Search</string>
+</resources>
